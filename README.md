@@ -10,17 +10,17 @@
 
 准备好通达OA批量的资产放入url.txt
 
-![01](\image\01.jpg)
+![01](/image/01.jpg)
 
 
 
 运行java -jar TongDA_OnlineSession
 
-![01](\image\02.jpg)
+![01](/image/02.jpg)
 
 使用Session登录网站，网站/general
 
-![01](\image\03.jpg)
+![01](/image/03.jpg)
 
 
 
